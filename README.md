@@ -1,3 +1,3 @@
 # GitHubExercise
 
-***Working on first GitHub Exercise #1 ***
+***Working on first GitHub Exercise #1***
