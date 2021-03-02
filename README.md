@@ -1,3 +1,3 @@
 # GitHubExercise
 
-***Working on first GitHub documentation***
+***Working on first GitHub Exercise #1 ***
